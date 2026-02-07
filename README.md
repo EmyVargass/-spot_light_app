@@ -21,4 +21,4 @@ Spot Light es una aplicación móvil desarrollada en Flutter que permite a los u
 - **Google Fonts** - Tipografía personalizada
 
 ## Licencia
-Este proyecto es de uso académico para el curso de Aplicaciones Web Orientadas a Servicios.
+MIT © 2026 Spot-Light Team
