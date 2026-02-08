@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:spot_linght_app/widgets/app_logo.dart';
-import 'package:spot_linght_app/widgets/user_avatar.dart';
+import 'package:spot_light_app/widgets/app_logo.dart';
+import 'package:spot_light_app/widgets/user_avatar.dart';
 
 class StudentReviewsScreen extends StatelessWidget {
   const StudentReviewsScreen({super.key});

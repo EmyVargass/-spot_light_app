@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spot_linght_app/widgets/app_logo.dart';
+import 'package:spot_light_app/widgets/app_logo.dart';
 
 class RegisterScreen extends StatelessWidget {
   const RegisterScreen({super.key});
